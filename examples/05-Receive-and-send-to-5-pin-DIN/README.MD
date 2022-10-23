@@ -9,7 +9,7 @@ This file allow to conect an input BLE MIDI transmission (like a 'Piano MIDI BLE
 ## Component list
 * ESP32 DEVKIT V1
 * MIDI DIN connector
-* 2 ressistance 220 ohms
+* 2 resistance 220 ohms
 * 3 wires dupont 
 
 ## Reference
