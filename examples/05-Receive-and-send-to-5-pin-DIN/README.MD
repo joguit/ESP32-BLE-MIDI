@@ -32,4 +32,4 @@ this file allow to conect a input BLE MIDI trasmission (like a 'Piano MIDI BLE U
 schematic (this is for arduino uno, but it works the same):
 https://google.es
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/joguit/ESP32-BLE-MIDI/edit/master/examples/05-Receive-and-send-to-5-pin-DIN/README.MD)
