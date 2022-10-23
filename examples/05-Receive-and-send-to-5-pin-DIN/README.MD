@@ -29,7 +29,7 @@ This file allow to conect an input BLE MIDI transmission (like a 'Piano MIDI BLE
 
 ## Appendix
 
-schematic (this is for arduino uno, but it works the same):
+Schematic (this is for Arduino Uno, but it works the same:wink: ):
 
 
 ![schematic](https://github.com/joguit/ESP32-BLE-MIDI/edit/master/examples/05-Receive-and-send-to-5-pin-DIN/Arduino-Uno-schematic.png)
