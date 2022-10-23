@@ -1,7 +1,7 @@
 
 # Interface BLE-MIDI-to-input-5-pin -DIN
 
-this file allow to conect a input BLE MIDI trasmission (like a 'Piano MIDI BLE USB Android app ' ) with a input MIDI device, such a piano.
+This file allow to conect an input BLE MIDI transmission (like a 'Piano MIDI BLE USB Android app ' ) with a input MIDI device, such a piano.
 
 
 
